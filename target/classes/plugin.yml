@@ -1,0 +1,7 @@
+name: HubBoard
+version: '1.0'
+main: gay.charon.hubboard.HubBoard
+api-version: 1.18
+authors: [ charon ]
+description: Scoreboard for Hub that is similar to lunar/mineman scoreboard!
+website: charon.gay
